@@ -1,0 +1,23 @@
+body{
+    font-family: monospace;
+    overflow: hidden;
+    font-size: 15px;
+}
+a{
+    text-decoration: none;
+}
+.container{
+    width: 1200px;
+    margin: auto;
+    max-width: 90%;
+    transition: transfrom 1s;
+
+}
+
+header img{
+    width: 60px;
+}
+
+ehader {
+    display: ;
+}
